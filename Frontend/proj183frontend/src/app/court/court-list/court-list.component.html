@@ -1,0 +1,35 @@
+<div class="cards">
+  @for(court of courts$ | async; track court ) {
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>{{ court.title }}</mat-card-title>
+    </mat-card-header>
+
+    <mat-divider></mat-divider>
+
+    <mat-card-content>
+      <p><strong>Description</strong></p>
+      <p>{{ court.description }}</p>
+    </mat-card-content>
+
+    <mat-divider></mat-divider>
+
+    <mat-card-content>
+      <p><strong>Street</strong></p>
+      <p>{{ court.street }}</p>
+      @if (court.number.length > 0) {
+      <p><strong>Number</strong></p>
+      <p>{{ court.number }}</p>
+      }
+      <p><strong>City</strong></p>
+      <p>{{ court.city }}</p>
+      <p><strong>Canton</strong></p>
+      <p>{{ court.canton }}</p>
+      @if (court.plz > 0) {
+      <p><strong>PLZ</strong></p>
+      <p>{{ court.plz }}</p>
+      }
+    </mat-card-content>
+  </mat-card>
+  }
+</div>

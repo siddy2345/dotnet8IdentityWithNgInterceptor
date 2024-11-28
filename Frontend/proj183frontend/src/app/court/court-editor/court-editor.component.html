@@ -1,0 +1,54 @@
+<form [formGroup]="courtReactiveForm" class="form">
+  <mat-form-field class="full-width">
+    <mat-label>Title</mat-label>
+    <input matInput type="text" formControlName="title" />
+    @if (courtReactiveForm.controls.title.hasError('required')) {
+    <mat-error>Title is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>Description</mat-label>
+    <textarea matInput formControlName="description"></textarea>
+    @if (courtReactiveForm.controls.description.hasError('required')) {
+    <mat-error>Description is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>Street</mat-label>
+    <input matInput type="text" formControlName="street" />
+    @if (courtReactiveForm.controls.street.hasError('required')) {
+    <mat-error>Street is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>Number</mat-label>
+    <input matInput type="text" formControlName="number" />
+    @if (courtReactiveForm.controls.number.hasError('required')) {
+    <mat-error>Number is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>City</mat-label>
+    <input matInput type="text" formControlName="city" />
+    @if (courtReactiveForm.controls.city.hasError('required')) {
+    <mat-error>City is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>PLZ</mat-label>
+    <input matInput type="number" formControlName="plz" />
+    @if (courtReactiveForm.controls.plz.hasError('max') &&
+    !courtReactiveForm.controls.plz.hasError('required')) {
+    <mat-error>PLZ can only be as high as <strong>9999</strong></mat-error>
+    } @if (courtReactiveForm.controls.plz.hasError('required')) {
+    <mat-error>PLZ is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+  <mat-form-field class="full-width">
+    <mat-label>Canton</mat-label>
+    <input matInput type="text" formControlName="canton" />
+    @if (courtReactiveForm.controls.canton.hasError('required')) {
+    <mat-error>Canton is <strong>required</strong></mat-error>
+    }
+  </mat-form-field>
+</form>

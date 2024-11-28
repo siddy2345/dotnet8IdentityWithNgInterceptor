@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\data\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:data\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\controllers\\models\\courtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:controllers\\models\\courtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\controllers\\models\\courtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:controllers\\models\\courtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\data\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:data\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\proj183backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:proj183backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|c:\\users\\sahid\\projdotnetng\\projekt_183\\backend\\proj183backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7622E88F-DA96-47A3-A8E2-B67F2C4DB425}|Proj183Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourtController.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\CourtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourtController.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\CourtController.cs",
+              "RelativeToolTip": "Controllers\\CourtController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:23:49.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\Address.cs",
+              "RelativeDocumentMoniker": "Data\\Address.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\Address.cs",
+              "RelativeToolTip": "Data\\Address.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:09:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourtViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\Models\\CourtViewModel.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\CourtViewModel.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\Models\\CourtViewModel.cs",
+              "RelativeToolTip": "Controllers\\Models\\CourtViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:41:50.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:01:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourtModel.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\Models\\CourtModel.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\CourtModel.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\Models\\CourtModel.cs",
+              "RelativeToolTip": "Controllers\\Models\\CourtModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:42:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proj183Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Proj183Backend.csproj",
+              "RelativeDocumentMoniker": "Proj183Backend.csproj",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Proj183Backend.csproj",
+              "RelativeToolTip": "Proj183Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T11:45:39.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Court.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\Court.cs",
+              "RelativeDocumentMoniker": "Data\\Court.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Data\\Court.cs",
+              "RelativeToolTip": "Data\\Court.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:59:12.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sahid\\projDotNetNg\\projekt_183\\Backend\\Proj183Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:44:14.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
